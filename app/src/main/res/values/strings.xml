@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sdetails</string>
+    <string name="full_name_adele_fatai_aderemilekun">Full Name: Adele Fatai Aderemilekun</string>
+    <string name="email_address_adelefatai_yahoo_com">Email Address: adelefatai@yahoo.com</string>
+    <string name="slack_username_rhemi7">Slack Username: Rhemi7</string>
+    <string name="track_mobile">Track: Mobile</string>
+</resources>
